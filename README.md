@@ -1,4 +1,12 @@
-## Welcome to GitHub Pages
+## Welcome to RedMaeMae's Blog
+
+## My first blog post
+
+On 10/25/18 I purchased:
+- Deadpool (320) pop figure 
+- Ana Amari (349) pop figure
+
+## My references to learn for later
 
 You can use the [editor on GitHub](https://github.com/RedMaeMae/RedMaeMae.github.io/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
 
