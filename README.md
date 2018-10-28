@@ -3,7 +3,7 @@
 ## My first blog post
 
 On 10/25/18 I purchased:
-- Deadpool (320) pop figure 
+- Deadpool (320) pop figure ![Deadpool](https://raw.githubusercontent.com/RedMaeMae/RedMaeMae.github.io/master/images/deadpool.jpg "Deadpool")
 - Ana Amari (349) pop figure
 
 ## My references to learn for later
