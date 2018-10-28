@@ -5,7 +5,8 @@
 On 10/25/18 I purchased:
 - Deadpool (320) pop figure  
 ![Deadpool](https://raw.githubusercontent.com/RedMaeMae/RedMaeMae.github.io/master/images/deadpool.jpg "Deadpool")
-- Ana Amari (349) pop figure
+- Ana Amari (349) pop figure  
+![Ana](https://raw.githubusercontent.com/RedMaeMae/RedMaeMae.github.io/master/images/ana.jpg "Ana")
 
 ## My references to learn for later
 
